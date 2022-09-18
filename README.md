@@ -1,6 +1,6 @@
 # Data-Structures
 
-This repo is for exercises in data structures (and in some cases, re-creating certain structures from scratch)
+This repo is for exercises in data structures (and in some cases, recreating certain structures from scratch)
 
 BTree: Creation of BTree structure and basic operations. Includes helper functions such as insertNonFull and splitChild.
 
